@@ -1,0 +1,100 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-10-31T02:54:32.583Z",
+  "profile": {
+    "title": "Shaojie Liang",
+    "subtitle": "I understand ",
+    "currentWork": "",
+    "currentLearn": "Machine Learning&Deep Learning",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "Data Wrangling | Data Analysis|Data Visualization | Machine Learning | SQL&Python",
+    "contact": "shaojieliang1103@icloud.com",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://shaojieliang.github.io/me/",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/1OX6ozbGMZaXWUJ1w43okiO1gvmxCLcbT/view?usp=share_link"
+  },
+  "social": {
+    "github": "jj",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "UClrcaLLHCC0dE5-PhT_CJJQ",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "blender",
+    "canvasjs",
+    "css3",
+    "d3js",
+    "docker",
+    "html5",
+    "hugo",
+    "javascript",
+    "matlab",
+    "mysql",
+    "numpy",
+    "pandas",
+    "photoshop",
+    "python"
+  ]
+}
